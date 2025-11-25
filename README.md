@@ -3,6 +3,8 @@ SOX1_PAX6_Nestin_PerCell_Quant.ijm
 Automated per-cell quantification of SOX1, PAX6 and Nestin in 
 iPSC-derived neural progenitors using Fiji/ImageJ.
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17711034.svg)](https://doi.org/10.5281/zenodo.17711034)
+
 Author: Rucsanda Pinteac
 Date: 2025
 Requires: Fiji with Bio-Formats
